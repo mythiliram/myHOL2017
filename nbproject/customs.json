@@ -1,0 +1,18 @@
+{
+    "elements": {
+        "oj-label": {
+            "attributes": {
+                "for": {}
+            }
+        },
+        "oj-chart": {},
+        "oj-option": {},
+        "my-chart": {},
+        "oj-combobox-one": {
+            "attributes": {
+                "id": {}
+            }
+        }
+    },
+    "attributes": {}
+}
